@@ -15,12 +15,12 @@ The goal of this project is to analysis the sales budget data, extract necessary
 - Find key metrics and factors and show the meaningful relationships between attributes
 
 ## Dataset 📀
-[Adventure-Works Data](https://github.com/alokchoudhary05/Company-Budget-Sales-Project/tree/main/Company%20Budget%20Data)
+[Company Budget Database](https://github.com/alokchoudhary05/Company-Budget-Sales-Project/tree/main/Company%20Budget%20Data)
 
 ## Technology �
 Business Intelligence
 ## Domain 🛒
-Retail & Sales
+Business Analytics / Retail & Sales
 ## Project Difficulty level 🥇
 Advanced
 ## Programming Language 💻
