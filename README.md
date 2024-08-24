@@ -4,7 +4,8 @@
 The goal of this project is to analysis the sales budget data, extract necessary information about Products and Customers based on a combination of features and make a dashboard to review the performance of the company.
 
 ## Glimpse of the Dashboard 🎥
-![screenshot](https://user-images.githubusercontent.com/69301816/188271334-a7446448-2b97-4dfe-8f96-26f2b655f554.gif)
+![0824(1) (1)](https://github.com/user-attachments/assets/b0aa95ba-08f1-4e57-8507-d03cf5817966)
+
 
 ## Problem statement 📜
 - Do ETL : Extract-Transform-Load dataset
