@@ -11,7 +11,7 @@ This project is geared toward the analysis of sales budget data for the necessar
 The company is facing challenges in understanding the discrepancies between actual sales and budgeted targets, which affects strategic decision-making and resource allocation. There is a need for an in-depth analysis of sales performance, customer behavior, and product profitability to identify key trends, optimize sales strategies, and improve financial planning. This project aims to analyze the company's sales and budget data to uncover insights that will enhance decision-making and drive business growth. 
 
 ## Dataset 📀
-[Company Budget Database](https://github.com/alokchoudhary05/Company-Budget-Sales-Project/tree/main/Company%20Budget%20Data)
+[Company Budget Database](https:.com)
 
 ## Technology �
 Business Intelligence
