@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+Company_Budget_Data
+
 # C extensions
 *.so
 
